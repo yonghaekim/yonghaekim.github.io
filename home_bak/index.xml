@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yonghae&#39;s Website on Yonghae&#39;s Website</title>
-    <link>https://yonghaekim.github.io/</link>
-    <description>Recent content in Yonghae&#39;s Website on Yonghae&#39;s Website</description>
+    <title>Home_baks on Yonghae&#39;s Website</title>
+    <link>https://yonghaekim.github.io/home_bak/</link>
+    <description>Recent content in Home_baks on Yonghae&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://yonghaekim.github.io/home_bak/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -25,12 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home_bak/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
-
-&lt;p&gt;Yonghae Kim is a Ph.D. student at Georgia Tech in Computer Science. His research interests include computer architecture, machine learning, and memory systems.&lt;/p&gt;
-</description>
+      <description>Biography Yonghae Kim is a Ph.D. student at Georgia Tech in Computer Science. His research interests include computer architecture, machine learning, and memory systems.</description>
     </item>
     
     <item>
@@ -84,21 +81,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home_bak/experience/</guid>
-      <description>
-
-&lt;h4 id=&#34;engineer-samsung-electronics-mar-2016-mar-2018&#34;&gt;Engineer, Samsung Electronics, Mar. 2016 - Mar. 2018&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Worked as a front-end designer&lt;/li&gt;
-&lt;li&gt;Involved in developing memory interface IPs (PHY)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;internship-samsung-electronics-jan-2015-feb-2015&#34;&gt;Internship, Samsung Electronics, Jan. 2015 - Feb. 2015&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Conducted research on PRBS theory and hardware architecture&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Engineer, Samsung Electronics, Mar. 2016 - Mar. 2018  Worked as a front-end designer Involved in developing memory interface IPs (PHY)  Internship, Samsung Electronics, Jan. 2015 - Feb. 2015  Conducted research on PRBS theory and hardware architecture  </description>
     </item>
     
     <item>
@@ -116,13 +99,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home_bak/honors/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Kwanjeong Graduate Fellowship, 2018-present&lt;/li&gt;
-&lt;li&gt;National Science &amp;amp; Technology Scholarship, 2010-11, 2014-15&lt;/li&gt;
-&lt;li&gt;Samsung Scholarship, 2014-2015&lt;/li&gt;
-&lt;li&gt;Sungkyunkwan University Scholarship, 2010-2011&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Kwanjeong Graduate Fellowship, 2018-present National Science &amp;amp; Technology Scholarship, 2010-11, 2014-15 Samsung Scholarship, 2014-2015 Sungkyunkwan University Scholarship, 2010-2011  </description>
     </item>
     
     <item>
@@ -140,10 +117,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home_bak/teaching/</guid>
-      <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
-
-&lt;p&gt;To remove this section, either delete &lt;code&gt;content/home/teaching.md&lt;/code&gt; or edit the frontmatter of the file to deactivate the widget by setting &lt;code&gt;active = false&lt;/code&gt;.&lt;/p&gt;
-</description>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

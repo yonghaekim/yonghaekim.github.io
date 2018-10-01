@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Academic</title>
+    <title>Publication_types on Yonghae&#39;s Website</title>
     <link>https://yonghaekim.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Academic</description>
+    <description>Recent content in Publication_types on Yonghae&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 12:13:34 -0400</lastBuildDate>
     
 	<atom:link href="https://yonghaekim.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>0</title>
+      <link>https://yonghaekim.github.io/publication_types/0/</link>
+      <pubDate>Mon, 01 Oct 2018 12:13:34 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/publication_types/0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
