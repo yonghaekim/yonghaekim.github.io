@@ -12,14 +12,5 @@
 	<atom:link href="https://yonghaekim.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>(poster) Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation</title>
-      <link>https://yonghaekim.github.io/presentation/2018crnch_poster/</link>
-      <pubDate>Fri, 02 Nov 2018 12:13:34 -0400</pubDate>
-      
-      <guid>https://yonghaekim.github.io/presentation/2018crnch_poster/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
