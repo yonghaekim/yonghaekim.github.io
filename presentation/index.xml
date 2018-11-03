@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>presentation on Yonghae&#39;s Website</title>
+    <title>presentations on Yonghae&#39;s Website</title>
     <link>https://yonghaekim.github.io/presentation/</link>
-    <description>Recent content in presentation on Yonghae&#39;s Website</description>
+    <description>Recent content in presentations on Yonghae&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>(poster) High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory</title>
-      <link>https://yonghaekim.github.io/presentation/2017dac/</link>
-      <pubDate>Tue, 18 Jul 2017 12:13:34 -0400</pubDate>
+      <title>(poster) Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation</title>
+      <link>https://yonghaekim.github.io/presentation/2018crnch_poster/</link>
+      <pubDate>Fri, 02 Nov 2018 12:13:34 -0400</pubDate>
       
-      <guid>https://yonghaekim.github.io/presentation/2017dac/</guid>
+      <guid>https://yonghaekim.github.io/presentation/2018crnch_poster/</guid>
       <description></description>
     </item>
     
