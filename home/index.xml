@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://yonghaekim.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,16 @@
     <item>
       <title></title>
       <link>https://yonghaekim.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/about/</guid>
-      <description>Biography I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include machine learning, computer architecture, and memory systems. I am currently working on neural machine translation (NMT) for programming languages.</description>
+      <description>Biography I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include computer architecture, compiler, machine learning, and hardware designs. I am currently working on translating programming languages for hardware generation using neural machine translation (NMT).</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://yonghaekim.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/publications/</guid>
       <description></description>
@@ -33,16 +33,16 @@
     <item>
       <title>Experience</title>
       <link>https://yonghaekim.github.io/home/experience/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/experience/</guid>
-      <description> Engineer, Samsung Electronics, Mar. 2016 - Mar. 2018  Worked as a front-end designer Involved in developing memory interface IPs (PHY)  Internship, Samsung Electronics, Jan. 2015 - Feb. 2015  Conducted research on PRBS theory and hardware architecture  </description>
+      <description> Engineer, Samsung Electronics, Mar. 2016 - Mar. 2018  Worked as a front-end designer Involved in developing memory interface IPs (PHY)  Intern, Samsung Electronics, Jan. 2015 - Feb. 2015  Conducted research on PRBS theory and hardware architecture  </description>
     </item>
     
     <item>
       <title>Honors &amp; Awards</title>
       <link>https://yonghaekim.github.io/home/honors/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/honors/</guid>
       <description> Kwanjeong Graduate Fellowship, 2018-present National Science &amp;amp; Technology Scholarship, 2010-11, 2014-15 Samsung Scholarship, 2014-2015 Sungkyunkwan University Scholarship, 2010-2011  </description>
@@ -51,16 +51,16 @@
     <item>
       <title>Presentations</title>
       <link>https://yonghaekim.github.io/home/presentations/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/presentations/</guid>
-      <description> Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, 2nd CRNCH Commit, Poster Session  </description>
+      <description> Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, CGO-2019 SRC, Feb. 16-20th, 2019.  </description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>https://yonghaekim.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
       <guid>https://yonghaekim.github.io/home/contact/</guid>
       <description></description>

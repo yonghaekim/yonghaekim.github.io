@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://yonghaekim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,15 @@
       <pubDate>Tue, 18 Jul 2017 12:13:34 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/publication/2017dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(poster) Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory</title>
+      <link>https://yonghaekim.github.io/publication/2016dac/</link>
+      <pubDate>Mon, 18 Jul 2016 12:13:34 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/publication/2016dac/</guid>
       <description></description>
     </item>
     
