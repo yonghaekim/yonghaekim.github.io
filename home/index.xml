@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home/about/</guid>
-      <description>Biography I am a Ph.D. student at Georgia Tech in Computer Science. I am working with Prof. Hyesoon Kim, and my research interests include computer architecture, compiler, machine learning, and hardware designs. I am currently working on translating programming languages for hardware generation using neural machine translation (NMT).</description>
+      <description>Biography I am a Ph.D. student in Computer Science at the Georgia Tech, who is being advised by Prof. Hyesoon Kim. My research interests include computer architecture, compiler, and hardware designs. I am currently working on translating programming languages for hardware generation using neural machine translation (NMT). Before joining the Georgia Tech, I worked for two years at Samsung Electronics as a front-end RTL designer.</description>
     </item>
     
     <item>
@@ -27,9 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home/publications/</guid>
-      <description>Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, the ACM CGO 2019 Student Research Competition (SRC), Yonghae Kim, Hyesoon Kim, Washington, D.C., USA, 2019.
- (poster) High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory, the Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2017.
- (poster) Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory, the Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2016.</description>
+      <description>Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation  the ACM CGO 2019 Student Research Competition (SRC), Yonghae Kim, Hyesoon Kim, Washington, D.C., USA, 2019.  (poster) High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory  the Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2017.  (poster) Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory  the Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2016.</description>
     </item>
     
     <item>
