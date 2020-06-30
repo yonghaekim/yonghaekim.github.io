@@ -18,7 +18,18 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home/about/</guid>
-      <description>Biography I am a Ph.D. student in Computer Science at the Georgia Tech, who is being advised by Prof. Hyesoon Kim. My research interests include computer architecture and microarchitectural support for security. I am currently working on developing low-overhead and robust defense against covert/side-channel attacks.</description>
+      <description>Biography I am a Ph.D. student in Computer Science at the Georgia Tech, who is being advised by Prof. Hyesoon Kim. My research interests include computer architecture and microarchitectural support for security. I am currently working on developing low-overhead and robust defense against memory safety vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://yonghaekim.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://yonghaekim.github.io/home/publications/</guid>
+      <description> A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, arXiv preprint arXiv:1905.07653, 2019.
+ Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, ACM CGO 2019 Student Research Competition (SRC), Yonghae Kim, Hyesoon Kim, Washington, D.C., USA, 2019.
+  </description>
     </item>
     
     <item>
@@ -30,17 +41,6 @@
       <description>A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, 2nd International Workshop on AI-assisted Design for Architecture (AIDArc), co-located with International Symposium on Computer Architecture (ISCA), Phoenix, AZ, 2019.
  High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster), Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2017.
  Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster), Design Automation Conference (DAC), Yonghae Kim, Joon-sung Yang, Austin, TX, USA, 2016.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://yonghaekim.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://yonghaekim.github.io/home/publications/</guid>
-      <description>A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, 2nd International Workshop on AI-assisted Design for Architecture (AIDArc), co-located with International Symposium on Computer Architecture (ISCA), Phoenix, AZ, 2019.
- A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, arXiv preprint arXiv:1905.07653, 2019.
- Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, ACM CGO 2019 Student Research Competition (SRC), Yonghae Kim, Hyesoon Kim, Washington, D.</description>
     </item>
     
     <item>
