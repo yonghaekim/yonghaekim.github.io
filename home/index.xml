@@ -27,7 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://yonghaekim.github.io/home/publications/</guid>
-      <description> A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, arXiv preprint arXiv:1905.07653, 2019.
+      <description> AOS: Hardware-based Always-On Memory Safety, Yonghae Kim, Jaekyu Lee, Hyesoon Kim, Athens, Greece, October 2020.
+ A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL, Yonghae Kim, Hyesoon Kim, arXiv preprint arXiv:1905.07653, 2019.
  Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation, ACM CGO 2019 Student Research Competition (SRC), Yonghae Kim, Hyesoon Kim, Washington, D.C., USA, 2019.
   </description>
     </item>
