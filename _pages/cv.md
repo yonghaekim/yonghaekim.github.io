@@ -11,22 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, 2023 (expected)
-* B.S. in Semiconductor Systems Engineering, Sungkyunkwan University, 2016
+* Ph.D, Georgia Institute of Technology, 2018 - 2023 (expected)
+	* Majored in Computer Science
+* B.S., Sungkyunkwan University, 2016
+  * Majored in Semiconductor Systems Engineering
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Work experience
 ======
 * Summer 2022: Research Intern @ Intel Labs
 * Summer 2021: Research Intern @ AMD Research
+	* Worked on architecture designs coupled with high bandwidth memory (HBM)
 * Summer 2019: Research Intern @ Arm Research
+	* Studied a defense mechanism against speculation-based side channel attacks
 * Mar 2016 - Mar 2018: Engineer @ Samsung
+	* Participated in memory interface IP (PHY) development for LPDDR4, DDR3/4, and HBM
 * Jan 2015 - Feb 2015: Intern @ Samsung
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+	* Conducted research on the hardware impl. of PRBS training mechanism for LPDDR4
