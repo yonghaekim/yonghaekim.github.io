@@ -25,6 +25,6 @@ Work experience
 * <b>Research Intern @ Arm Research</b> (Summer 2019)
 	* Studied a defense mechanism against speculation-based side channel attacks
 * <b>Engineer @ Samsung</b> (Mar 2016 - Mar 2018)
-	* Participated in memory interface IP (PHY) development for LPDDR4, DDR3/4, and HBM
+	* Participated in memory interface IP (PHY) development for LP/DDR\* and HBM
 * <b>Intern @ Samsung</b> (Jan 2015 - Feb 2015)
 	* Conducted research on the hardware impl. of PRBS training mechanism for LPDDR4
