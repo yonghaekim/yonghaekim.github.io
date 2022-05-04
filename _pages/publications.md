@@ -23,14 +23,14 @@ author_profile: true
   International Workshop on AI-assisted Design for Architecture (<b>AIDArc 2019</b>)
 
 * <b>Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation</b><br>
-  <b>Yonghae Kim</b>, Hyesoon Kim
+  <b>Yonghae Kim</b>, Hyesoon Kim<br>
   ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)
 
 * <b>High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
-  <b>Yonghae Kim</b>, Joon-sung Yang
+  <b>Yonghae Kim</b>, Joon-sung Yang<br>
   Design Automation Conference (<b>DAC 2017</b>)
 
 * <b>Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
-  <b>Yonghae Kim</b>, Joon-sung Yang
+  <b>Yonghae Kim</b>, Joon-sung Yang<br>
   Design Automation Conference (<b>DAC 2016</b>)
 
