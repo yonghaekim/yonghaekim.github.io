@@ -6,31 +6,31 @@ author_profile: true
 ---
 
 * Securing GPU via Region-based Bounds Checking<br>
-  Jaewon Lee, Yonghae Kim, Jiashen Cao, Euna Kim, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE/ACM International Symposium on Computer Architecture (ISCA 2022)
+  Jaewon Lee, <b>Yonghae Kim</b>, Jiashen Cao, Euna Kim, Jaekyu Lee, Hyesoon Kim<br>
+  IEEE/ACM International Symposium on Computer Architecture (<b>ISCA 2022</b>)
 
 * Hardware Support to Improve Fuzzing Performance and Precision<br>
-  Ren Ding\*, Yonghae Kim\*, Fan Sang, Wen Xu, Gururaj Saileshwar, Taesoo Kim<br>
-  ACM Conference on Computer and Communications Security (CCS 2021)
+  Ren Ding\*, <b>Yonghae Kim\*</b>, Fan Sang, Wen Xu, Gururaj Saileshwar, Taesoo Kim<br>
+  ACM Conference on Computer and Communications Security (<b>CCS 2021</b>)
   (\*co-first authors)
 
 * Hardware-based Always-On Heap Memory Safety<br>
-  Yonghae Kim, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)
+  <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
+  IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2022</b>)
 
 * A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL<br>
-  Yonghae Kim, Hyesoon Kim<br>
-  International Workshop on AI-assisted Design for Architecture (AIDArc 2019)
+  <b>Yonghae Kim</b>, Hyesoon Kim<br>
+  International Workshop on AI-assisted Design for Architecture (<b>AIDArc 2019</b>)
 
 * Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation
-  Yonghae Kim, Hyesoon Kim
-  ACM CGO Student Research Competition (CGO SRC 2019)
+  <b>Yonghae Kim</b>, Hyesoon Kim
+  ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)
 
 * High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)
-  Yonghae Kim, Joon-sung Yang
-  Design Automation Conference (DAC 2017)
+  <b>Yonghae Kim</b>, Joon-sung Yang
+  Design Automation Conference (<b>DAC 2017</b>)
 
 * Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)
-  Yonghae Kim, Joon-sung Yang
-  Design Automation Conference (DAC 2016)
+  <b>Yonghae Kim</b>, Joon-sung Yang
+  Design Automation Conference (<b>DAC 2016</b>)
 

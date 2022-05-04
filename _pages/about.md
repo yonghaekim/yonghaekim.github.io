@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at the Georgia Tech who is being advised by Prof. Hyesoon Kim.
-My research interests include computer architecture, security, secure systems design, and compiler analysis.
+I am a Ph.D. student in Computer Science at the Georgia Tech who is being advised by Prof. Hyesoon Kim.<br>
+My research interests include computer architecture, security, secure systems design, and compiler analysis.<br>
 I am currently working on efficient defense against memory safety vulnerabilities.
