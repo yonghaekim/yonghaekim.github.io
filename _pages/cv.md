@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Intern @ Intel Labs
-* Summer 2021: Research Intern @ AMD Research
+* <b>Research Intern @ Intel Labs</b> (Summer 2022) 
+* <b>Research Intern @ AMD Research</b> (Summer 2021)
 	* Worked on architecture designs coupled with high bandwidth memory (HBM)
-* Summer 2019: Research Intern @ Arm Research
+* <b>Research Intern @ Arm Research</b> (Summer 2019)
 	* Studied a defense mechanism against speculation-based side channel attacks
-* Mar 2016 - Mar 2018: Engineer @ Samsung
+* <b>Engineer @ Samsung</b> (Mar 2016 - Mar 2018)
 	* Participated in memory interface IP (PHY) development for LPDDR4, DDR3/4, and HBM
-* Jan 2015 - Feb 2015: Intern @ Samsung
+* <b>Intern @ Samsung</b> (Jan 2015 - Feb 2015)
 	* Conducted research on the hardware impl. of PRBS training mechanism for LPDDR4
