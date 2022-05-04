@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* Please find my <a href='https://docs.google.com/document/d/1AuM5QP76WOSjno6UAZ_eRLECzvLr4kocqMihAOJSZSU/edit?usp=sharing'>up-to-date CV</a> here.
+
 Education
 ======
 * Ph.D, Georgia Institute of Technology, 2018 - 2023 (expected)
