@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-* Please find my up-to-date CV in <a href='https://docs.google.com/document/d/1AuM5QP76WOSjno6UAZ_eRLECzvLr4kocqMihAOJSZSU/edit?usp=sharing'>this link</a>.
+* Please find my up-to-date CV in <a href='https://docs.google.com/document/d/1AuM5QP76WOSjno6UAZ_eRLECzvLr4kocqMihAOJSZSU/edit?usp=sharing'>here</a>.
 
 Education
 ======
-* Ph.D, Georgia Institute of Technology, 2018 - 2023 (expected)
-	* In Computer Science
-* B.S., Sungkyunkwan University, 2016
-  * In Semiconductor Systems Engineering
+* Ph.D in Computer Science, Georgia Institute of Technology, 2018 - 2023 (expected)
+* B.S. in Semiconductor Systems Engineering, Sungkyunkwan University, 2016
 
 Work experience
 ======
