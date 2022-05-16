@@ -7,11 +7,12 @@ author_profile: true
 
 * <b>Securing GPU via Region-based Bounds Checking</b><br>
   Jaewon Lee, <b>Yonghae Kim</b>, Jiashen Cao, Euna Kim, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE/ACM International Symposium on Computer Architecture (<b>ISCA 2022</b>)
+  IEEE/ACM International Symposium on Computer Architecture (<b>ISCA 2022</b>)<br>
+	(<b>Nomiated for best paper</b>)
 
 * <b>Hardware Support to Improve Fuzzing Performance and Precision</b><br>
   Ren Ding\*, <b>Yonghae Kim\*</b>, Fan Sang, Wen Xu, Gururaj Saileshwar, Taesoo Kim<br>
-  ACM Conference on Computer and Communications Security (<b>CCS 2021</b>)
+  ACM Conference on Computer and Communications Security (<b>CCS 2021</b>)<br>
   (\*co-first authors)
 
 * <b>Hardware-based Always-On Heap Memory Safety</b><br>
