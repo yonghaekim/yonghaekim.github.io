@@ -17,7 +17,7 @@ author_profile: true
 
 * <b>Hardware-based Always-On Heap Memory Safety</b><br>
   <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2022</b>)
+  IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2020</b>)
 
 * <b>A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL</b><br>
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
