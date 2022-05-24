@@ -21,17 +21,17 @@ author_profile: true
 
 * <b>Hardware-based Always-On Heap Memory Safety</b><br>
   <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2020</b>)
+  IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2020</b>)<br>
 	[<a href='https://ieeexplore.ieee.org/document/9251969'>paper</a>]
 
 * <b>A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL</b><br>
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
-  International Workshop on AI-assisted Design for Architecture (<b>AIDArc 2019</b>)
+  International Workshop on AI-assisted Design for Architecture (<b>AIDArc 2019</b><br>)
 	[<a href='https://arxiv.org/abs/1905.07653'>paper</a>]
 
 * <b>Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation</b><br>
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
-  ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)
+  ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)<br>
 	[<a href='https://ieeexplore.ieee.org/document/8661172'</a>]
 
 * <b>High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
