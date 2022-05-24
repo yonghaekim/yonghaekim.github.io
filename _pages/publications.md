@@ -32,7 +32,7 @@ author_profile: true
 * <b>Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation</b><br>
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
   ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)<br>
-	[<a href='https://ieeexplore.ieee.org/document/8661172'</a>]
+	[<a href='https://ieeexplore.ieee.org/document/8661172'>paper</a>]
 
 * <b>High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
   <b>Yonghae Kim</b>, Joon-sung Yang<br>
