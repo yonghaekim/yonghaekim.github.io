@@ -35,12 +35,3 @@ author_profile: true
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
   ACM CGO Student Research Competition (<b>CGO SRC 2019</b>)
 	[<a href='https://ieeexplore.ieee.org/document/8661172'>paper</a>]
-
-* <b>High Speed and Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
-  <b>Yonghae Kim</b>, Joon-sung Yang<br>
-  Design Automation Conference (<b>DAC 2017</b>)
-
-* <b>Power Efficient Hierarchical SEC-DAEC-DEC code for Reliable Memory (poster)</b><br>
-  <b>Yonghae Kim</b>, Joon-sung Yang<br>
-  Design Automation Conference (<b>DAC 2016</b>)
-
