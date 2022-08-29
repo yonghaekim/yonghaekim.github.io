@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * <b>Research Intern @ Intel Labs</b> (Summer 2022) 
-	* Working on low-overhead memory safety solutions
+	* Worked on low-overhead memory safety solutions
 * <b>Research Intern @ AMD Research</b> (Summer 2021)
 	* Worked on architecture designs coupled with high bandwidth memory (HBM)
 * <b>Research Intern @ Arm Research</b> (Summer 2019)
