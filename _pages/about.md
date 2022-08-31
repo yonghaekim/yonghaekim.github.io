@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in computer science at the Georgia Tech.<br><br>
+I am a Ph.D. student in computer science at Georgia Tech.<br><br>
 My research interests include computer architecture, security, and compiler analysis.<br><br>
 I am currently working on efficient defense against memory safety vulnerabilities.
 
