@@ -27,4 +27,4 @@ Work experience
 * <b>Engineer @ Samsung</b> (Mar 2016 - Mar 2018)
 	* Participated in memory interface IP (PHY) development for LP/DDR-N and HBM
 * <b>Intern @ Samsung</b> (Jan 2015 - Feb 2015)
-	* Conducted research on the hardware impl. of PRBS training mechanism for LPDDR4
+	* Investigated the HW impl. of the PRBS training mechanism for LPDDR4
