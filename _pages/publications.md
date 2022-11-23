@@ -8,6 +8,8 @@ author_profile: true
 * <b>AOS-RISC-V: Towards Always-On Heap Memory Safety</b><br>
   <b>Yonghae Kim</b>, Anurag Kar, Siddant Singh, Ammar A. Ratnan, Jaekyu Lee, Hyesoon Kim<br>
   Workshop on Computer Architecture Research with RISC-V (<b>CARRV 2022</b>)
+  [<a href='https://carrv.github.io/2022/papers/CARRV2022_paper_5_Kim.pdf'>paper</a>]
+  [<a href='https://github.com/yonghaekim/AOS-RISC-V'>code</a>]<br>
 
 * <b>Securing GPU via Region-based Bounds Checking</b><br>
   Jaewon Lee, <b>Yonghae Kim</b>, Jiashen Cao, Euna Kim, Jaekyu Lee, Hyesoon Kim<br>
