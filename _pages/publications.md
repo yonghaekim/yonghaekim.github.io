@@ -20,13 +20,15 @@ author_profile: true
 * <b>Hardware Support to Improve Fuzzing Performance and Precision</b><br>
   Ren Ding\*, <b>Yonghae Kim\*</b>, Fan Sang, Wen Xu, Gururaj Saileshwar, Taesoo Kim<br>
   ACM Conference on Computer and Communications Security (<b>CCS 2021</b>) 
-  [<a href='https://dl.acm.org/doi/abs/10.1145/3460120.3484573'>paper</a>]<br>
+  [<a href='https://dl.acm.org/doi/abs/10.1145/3460120.3484573'>paper</a>]
+  [<a href='https://github.com/sslab-gatech/SNAP'>code</a>]<br>
 	(\*co-first authors) 
 
 * <b>Hardware-based Always-On Heap Memory Safety</b><br>
   <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
   IEEE/ACM International Symposium on Microarchitecture (<b>MICRO 2020</b>) 
-	[<a href='https://ieeexplore.ieee.org/document/9251969'>paper</a>]
+  [<a href='https://ieeexplore.ieee.org/document/9251969'>paper</a>]
+  [<a href='https://github.com/yonghaekim/AOS-gem5'>code</a>]
 
 * <b>A Case Study: Exploiting Neural Machine Translation to Translate CUDA to OpenCL</b><br>
   <b>Yonghae Kim</b>, Hyesoon Kim<br>
