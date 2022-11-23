@@ -14,15 +14,15 @@ author_profile: true
 * <b>Securing GPU via Region-based Bounds Checking</b><br>
   Jaewon Lee, <b>Yonghae Kim</b>, Jiashen Cao, Euna Kim, Jaekyu Lee, Hyesoon Kim<br>
   IEEE/ACM International Symposium on Computer Architecture (<b>ISCA 2022</b>)<br>
-	[<a href='https://dl.acm.org/doi/abs/10.1145/3470496.3527420'>paper</a>]<br>
-	[<b>Best paper nominee</b>]
+  [<b>Best paper nominee</b>]
+  [<a href='https://dl.acm.org/doi/abs/10.1145/3470496.3527420'>paper</a>]<br>
 
 * <b>Hardware Support to Improve Fuzzing Performance and Precision</b><br>
   Ren Ding\*, <b>Yonghae Kim\*</b>, Fan Sang, Wen Xu, Gururaj Saileshwar, Taesoo Kim<br>
   ACM Conference on Computer and Communications Security (<b>CCS 2021</b>)<br>
+  (\*co-first authors)  
   [<a href='https://dl.acm.org/doi/abs/10.1145/3460120.3484573'>paper</a>]
   [<a href='https://github.com/sslab-gatech/SNAP'>code</a>]<br>
-	(\*co-first authors) 
 
 * <b>Hardware-based Always-On Heap Memory Safety</b><br>
   <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
