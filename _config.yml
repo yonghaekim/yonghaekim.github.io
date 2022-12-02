@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yonghae Kim"
 title_separator          : "-"
 name                     : &name "Yonghae Kim"
-description              : &description "PhD candidate @ Georgia Tech"
+description              : &description "Ph.D. candidate @ GT"
 url                      : https://yonghaekim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yonghaekim/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yonghae Kim"
   avatar           : "portrait.png"
-  bio              : "PhD candidate @ Georgia Tech"
+  bio              : "Ph.D. candidate @ GT"
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
