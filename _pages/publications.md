@@ -7,7 +7,7 @@ author_profile: true
 
 * Mitigating Timing-Based NoC Side-Channel Attacks With LLC Remapping<br>
   Anurag Kar, Xueyang Liu, <b>Yonghae Kim</b>, Gururaj Saileshwar, Hyesoon Kim, Tushar Krishna<br>
-  IEEE Computer Architecture Letters (<b>CAL 2023</b>)<br>
+  IEEE Computer Architecture Letters (<b>CAL</b>)<br>
   [<a href='https://ieeexplore.ieee.org/document/10124988'>paper</a>]
 
 * AOS-RISC-V: Towards Always-On Heap Memory Safety<br>
