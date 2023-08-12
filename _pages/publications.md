@@ -12,12 +12,12 @@ author_profile: true
 
 * <b>Hardware-assisted Code-Pointer Tagging for Forward-Edge Control-Flow Integrit</b><br>
   <b>Yonghae Kim</b>, Anurag Kar, Jaewon Lee, Jaekyu Lee, Hyesoon Kim<br>
-  IEEE Computer Architecture Letters (<b>CAL</b>)<br>
+  IEEE Computer Architecture Letters (<b>CAL 2023</b>)<br>
   [<a href=''>paper</a>]
 
 * <b>Mitigating Timing-Based NoC Side-Channel Attacks With LLC Remapping</b><br>
   Anurag Kar, Xueyang Liu, <b>Yonghae Kim</b>, Gururaj Saileshwar, Hyesoon Kim, Tushar Krishna<br>
-  IEEE Computer Architecture Letters (<b>CAL</b>)<br>
+  IEEE Computer Architecture Letters (<b>CAL 2023</b>)<br>
   [<a href='https://ieeexplore.ieee.org/document/10124988'>paper</a>]
 
 * <b>AOS-RISC-V: Towards Always-On Heap Memory Safety</b><br>
