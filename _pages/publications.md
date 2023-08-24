@@ -10,7 +10,7 @@ author_profile: true
   arXiv preprint arXiv:2308.02945 (<b>arXiv 2023</b>)<br>
   [<a href='https://arxiv.org/abs/2308.02945'>paper</a>]
 
-* <b>Hardware-assisted Code-Pointer Tagging for Forward-Edge Control-Flow Integrit</b><br>
+* <b>Hardware-assisted Code-Pointer Tagging for Forward-Edge Control-Flow Integrity</b><br>
   <b>Yonghae Kim</b>, Anurag Kar, Jaewon Lee, Jaekyu Lee, Hyesoon Kim<br>
   IEEE Computer Architecture Letters (<b>CAL 2023</b>)<br>
   [<a href=''>paper</a>]
