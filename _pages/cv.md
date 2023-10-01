@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Georgia Institute of Technology, 2018 - 2023 (expected)
+* Ph.D. in Computer Science, Georgia Institute of Technology, 2018 - 2023
 * B.S. in Semiconductor Systems Engineering, Sungkyunkwan University, 2016
 
 Work experience
