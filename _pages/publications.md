@@ -7,7 +7,7 @@ author_profile: true
 
 * <b>Let-Me-In:(Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety</b><br>
   Jaewon Lee, Euijun Chung, Saurabh Singh, Seonjin Na, <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
-  Euijun Chung, Saurabh Singh, Seonjin Na, Yonghae Kim, Jaekyu Lee, Hyesoon Kim (<b>HPCA 2025</b>)<br>
+  IEEE International Symposium on High Performance Computer Architecture (<b>HPCA 2025</b>)<br>
   [<a href='https://ieeexplore.ieee.org/abstract/document/10946781'>paper</a>]
 
 * <b>RV-CURE: A RISC-V Capability Architecture for Full Memory Safety</b><br>
