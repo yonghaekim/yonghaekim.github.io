@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <b>Efficient Hardware-Assisted Heap Memory Safety for Embedded RISC-V Systems</b><br>
+  Hyunjae Park, <b>Yonghae Kim</b>, Dongwook Kang, Hongil Ju, Gaeil An, Yongwoo Kim<br>
+  <b>IEEE Acess 2025</b>)<br>
+  [<a href='https://ieeexplore.ieee.org/document/11006042'>paper</a>]
+
 * <b>Let-Me-In:(Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety</b><br>
   Jaewon Lee, Euijun Chung, Saurabh Singh, Seonjin Na, <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
   IEEE International Symposium on High Performance Computer Architecture (<b>HPCA 2025</b>)<br>
