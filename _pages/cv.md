@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Please find my up-to-date CV in <a href='https://docs.google.com/document/d/1AuM5QP76WOSjno6UAZ_eRLECzvLr4kocqMihAOJSZSU/edit?usp=sharing'>here</a>.
+* Please find my up-to-date CV in <a href='https://docs.google.com/document/d/1PobYBCIAmfHD9pCTQx-I8dvcR1XciXC1jMvgqF-t--g/edit?usp=sharing'>here</a>.
 
 Education
 ======
