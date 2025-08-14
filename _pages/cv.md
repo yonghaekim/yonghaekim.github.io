@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* <b>Cloud Software Architect @ Intel Labs</b> (Oct 2023 - Present)
+	* Software security, hardware security, confidential computing
 * <b>Research Intern @ Intel Labs</b> (Summer 2022) 
 	* Worked on low-overhead memory safety solutions
 * <b>Research Intern @ AMD Research</b> (Summer 2021)
