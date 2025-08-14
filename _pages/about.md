@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Cloud Software Architect at Intel Labs.<br><br>
-Before joining Intel, I <s>am</s> was a Ph.D student at Georgia Tech.<br><br>
-My research interests include computer architecture and security.<br><br>
-I am currently working on efficient defense against memory safety vulnerabilities.
+I'm a Cloud Software Architect at Security and Privacy Research (SPR) in Intel Labs.<br><br>
+Before joining Intel, I <s>am</s> was a Ph.D student at Georgia Tech where I was advised by Prof. Hyesoon Kim.<br><br>
+My research interests span computer architecture, security, and compiler.<br><br>
+I'm currently working on mitigating memory safety vulnerabilities with efficient micro-architectural and compiler support.
 
 

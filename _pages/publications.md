@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <b>RV-CURE: A RISC-V Capability Architecture for Full Memory Safety</b><br>
+  <b>Yonghae Kim</b>, Anurag Kar, Jaewon Lee, Jaekyu Lee, Hyesoon Kim<br>
+  IEEE Transactions on Computers (<b>TC 2025</b>)<br>
+  [<a href='https://ieeexplore.ieee.org/abstract/document/11087533'>paper</a>]
+
 * <b>Efficient Hardware-Assisted Heap Memory Safety for Embedded RISC-V Systems</b><br>
   Hyunjae Park, <b>Yonghae Kim</b>, Dongwook Kang, Hongil Ju, Gaeil An, Yongwoo Kim<br>
   <b>IEEE Access 2025</b><br>
@@ -14,11 +19,6 @@ author_profile: true
   Jaewon Lee, Euijun Chung, Saurabh Singh, Seonjin Na, <b>Yonghae Kim</b>, Jaekyu Lee, Hyesoon Kim<br>
   IEEE International Symposium on High Performance Computer Architecture (<b>HPCA 2025</b>)<br>
   [<a href='https://ieeexplore.ieee.org/abstract/document/10946781'>paper</a>]
-
-* <b>RV-CURE: A RISC-V Capability Architecture for Full Memory Safety</b><br>
-  <b>Yonghae Kim</b>, Anurag Kar, Jaewon Lee, Jaekyu Lee, Hyesoon Kim<br>
-  arXiv preprint arXiv:2308.02945 (<b>arXiv 2023</b>)<br>
-  [<a href='https://arxiv.org/abs/2308.02945'>paper</a>]
 
 * <b>Hardware-assisted Code-Pointer Tagging for Forward-Edge Control-Flow Integrity</b><br>
   <b>Yonghae Kim</b>, Anurag Kar, Jaewon Lee, Jaekyu Lee, Hyesoon Kim<br>
